@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,900;1,900&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.lista{
+    background-color: rgb(22, 89, 0);
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+   
+}
+.lista h3{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.produtos{
+    display: flex;
+    padding: 2px;
+    padding-bottom: 5px;
+   
+}
+.produtos input[type=text]{
+    width: 100%;
+    margin-bottom: 10px;
+    height: 30px;
+    font-size: 20px;
+}
+.produtos input[type=submit]{
+
+    cursor: pointer;
+    width: 40%;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.lista-produtos-single{
+   border-bottom: 1px solid #948585;
+   display: flex;
+   margin-bottom: 15px;
+   padding-top: 5px;
+   font-size: 25px;
+  
+}
+
+.lista-produtos-single h3{
+    flex:1;
+    margin-left: 20px;
+}
+
+h3.price{
+    text-align: right;
+}
+h3.price > span{
+    background-color: rgba(186, 180, 180, 0.875);
+    border-radius: 20%;
+    margin-right: 20px;
+    font-size: 25px;
+}
+.soma-produto{
+    font-size: 25px;
+    padding-top: 10px;
+}
+.limpar{
+    font-size: 20px;
+    width: 150px;
+    margin-top: 20px;
+}
