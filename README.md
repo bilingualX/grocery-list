@@ -4,15 +4,15 @@
 
 📚 What I've Learned:
 
-Mapping: I've learned .map method to create and manipulate arrays.
+✨ Mapping: I've learned .map method to create and manipulate arrays.
 
-Data Management: I've used .push to efficiently manage and update my grocery list.
+✨ Data Management: I've used .push to efficiently manage and update my grocery list.
 
-Numeric Precision: I've explored parseFloat to handle and calculate numerical values with precision.
+✨ Numeric Precision: I've explored parseFloat to handle and calculate numerical values with precision.
 
-Dynamic Display: I've leveraged innerHTML for content updates, providing an engaging user experience.
+✨ Dynamic Display: I've leveraged innerHTML for content updates, providing an engaging user experience.
 
-String Fusion: I've worked with string concatenation to build dynamic content and messages.
+✨ String Fusion: I've worked with string concatenation to build dynamic content and messages.
 
 This project has been a valuable learning experience, allowing me to put theory into practice and see my skills grow.
 
